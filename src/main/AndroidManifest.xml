@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".userInput"/>
+        <activity android:name=".userOpen"/>
+        <activity android:name=".userOptions"/>
+
+
     </application>
 
 </manifest>
